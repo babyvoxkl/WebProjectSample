@@ -14,3 +14,6 @@ E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\log4net.xml
 E:\WorkSpace\Demo\WebProjectSample\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\Service\obj\Debug\Service.dll
 E:\WorkSpace\Demo\WebProjectSample\Service\obj\Debug\Service.pdb
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\zh-Hans\EntityFramework.resources.dll

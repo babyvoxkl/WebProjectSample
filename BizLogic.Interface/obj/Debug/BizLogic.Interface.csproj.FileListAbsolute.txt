@@ -5,3 +5,6 @@ E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\Model.pdb
 E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.dll
 E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\zh-Hans\EntityFramework.resources.dll

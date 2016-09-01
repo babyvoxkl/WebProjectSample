@@ -5,3 +5,6 @@ E:\WorkSpace\Demo\WebProjectSample\Service.Interface\bin\Debug\Model.pdb
 E:\WorkSpace\Demo\WebProjectSample\Service.Interface\obj\Debug\Service.Interface.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\Service.Interface\obj\Debug\Service.Interface.dll
 E:\WorkSpace\Demo\WebProjectSample\Service.Interface\obj\Debug\Service.Interface.pdb
+E:\WorkSpace\Demo\WebProjectSample\Service.Interface\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\Service.Interface\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\Service.Interface\bin\Debug\zh-Hans\EntityFramework.resources.dll

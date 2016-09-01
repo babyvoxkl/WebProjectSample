@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ServiceModel;
 using System.ServiceModel.Activation;
+using Common;
+using log4net;
 using Model;
+using Service.Interface;
 
 namespace Service
 {
@@ -12,6 +14,8 @@ namespace Service
 
     public class KssApproveService : IKssApproveService
     {
+        private static readonly ILog Logs = LogHelper.GetInstance();
+
         public GetApproveListResponse GetApproveListService(GetApproveListRequest request)
         {
             GetApproveListResponse response = new GetApproveListResponse()

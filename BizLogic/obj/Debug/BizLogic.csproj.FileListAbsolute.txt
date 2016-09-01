@@ -9,3 +9,6 @@ E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\Model.pdb
 E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.dll
 E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\zh-Hans\EntityFramework.resources.dll

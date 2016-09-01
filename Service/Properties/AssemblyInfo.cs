@@ -21,7 +21,8 @@ using System.Runtime.InteropServices;
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
 [assembly: Guid("cffb81a1-87c1-4c27-bfdc-888592041b84")]
-
+//Log4Net配置文件指向
+[assembly: log4net.Config.XmlConfigurator(ConfigFile = "log4net.config", Watch = true)]
 // 程序集的版本信息由下列四个值组成: 
 //
 //      主版本
