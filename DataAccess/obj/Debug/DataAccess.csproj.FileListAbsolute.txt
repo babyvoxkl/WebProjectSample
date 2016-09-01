@@ -1,0 +1,14 @@
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\DataAccess.dll.config
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\DataAccess.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\DataAccess.pdb
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\Model.pdb
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\obj\Debug\DataAccess.dll
+E:\WorkSpace\Demo\WebProjectSample\DataAccess\obj\Debug\DataAccess.pdb

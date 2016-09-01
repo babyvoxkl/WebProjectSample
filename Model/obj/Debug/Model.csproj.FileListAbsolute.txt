@@ -1,0 +1,12 @@
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\Model.dll.config
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\Model.pdb
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WebProjectSample\Model\obj\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\Model\obj\Debug\Model.pdb

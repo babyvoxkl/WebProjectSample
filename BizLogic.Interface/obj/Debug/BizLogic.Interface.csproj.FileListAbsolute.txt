@@ -1,0 +1,7 @@
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\BizLogic.Interface.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\BizLogic.Interface.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\bin\Debug\Model.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic.Interface\obj\Debug\BizLogic.Interface.pdb

@@ -1,0 +1,11 @@
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\BizLogic.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\BizLogic.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\BizLogic.Interface.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\DataAccess.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\BizLogic.Interface.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\DataAccess.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\bin\Debug\Model.pdb
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.dll
+E:\WorkSpace\Demo\WebProjectSample\BizLogic\obj\Debug\BizLogic.pdb
