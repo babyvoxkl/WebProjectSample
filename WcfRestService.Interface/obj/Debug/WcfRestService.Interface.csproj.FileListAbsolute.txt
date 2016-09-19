@@ -1,0 +1,10 @@
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\WcfRestService.Interface.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\WcfRestService.Interface.pdb
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\Model.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\EntityFramework.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\Model.pdb
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\EntityFramework.xml
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\obj\Debug\WcfRestService.Interface.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\obj\Debug\WcfRestService.Interface.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService.Interface\obj\Debug\WcfRestService.Interface.pdb
