@@ -51,10 +51,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CpoeContext.cs" />
-    <Compile Include="GetApproveListRequest.cs" />
-    <Compile Include="GetApproveListResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DemoDbContext.cs" />
+    <Compile Include="ServiceModel\GetUserInfoListResult.cs" />
+    <Compile Include="ServiceModel\GetUserInfoResult.cs" />
+    <Compile Include="ServiceModel\ServiceResult.cs" />
+    <Compile Include="DataModel\UserInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

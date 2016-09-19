@@ -53,12 +53,12 @@ namespace DataAccess
             {
                 case DbType.Cpoe:
                     {
-                        dbContext = new CpoeContext();
+                        dbContext = new DemoDbContext();
                     }
                     break;
                 default:
                     {
-                        dbContext = new CpoeContext();
+                        dbContext = new DemoDbContext();
                     }
                     break;
             }
@@ -74,12 +74,12 @@ namespace DataAccess
             {
                 case DbType.Cpoe:
                     {
-                        dbContext = new CpoeContext(existingConnection, contextOwnsConnection);
+                        dbContext = new DemoDbContext(existingConnection, contextOwnsConnection);
                     }
                     break;
                 default:
                     {
-                        dbContext = new CpoeContext(existingConnection, contextOwnsConnection);
+                        dbContext = new DemoDbContext(existingConnection, contextOwnsConnection);
                     }
                     break;
             }
