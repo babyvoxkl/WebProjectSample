@@ -50,3 +50,17 @@ E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\ru-ru\MsieJavaScriptEngine.resour
 E:\WorkSpace\Demo\WebProjectSample\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\WebSite\obj\Debug\WebSite.dll
 E:\WorkSpace\Demo\WebProjectSample\WebSite\obj\Debug\WebSite.pdb
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\csc.exe.config
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\csc.rsp
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\csi.exe
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\csi.rsp
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\System.AppContext.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\System.IO.FileSystem.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\vbc.exe.config
+E:\WorkSpace\Demo\WebProjectSample\WebSite\bin\roslyn\vbc.rsp

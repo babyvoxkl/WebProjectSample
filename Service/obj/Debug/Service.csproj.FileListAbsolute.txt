@@ -17,3 +17,7 @@ E:\WorkSpace\Demo\WebProjectSample\Service\obj\Debug\Service.pdb
 E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\EntityFramework.dll
 E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\EntityFramework.xml
 E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\Common.dll
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\DataAccess.dll
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\Common.pdb
+E:\WorkSpace\Demo\WebProjectSample\Service\bin\Debug\DataAccess.pdb

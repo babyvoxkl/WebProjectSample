@@ -3,9 +3,20 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
-	<meta charset="utf-8" />
+    <meta charset="utf-8"/>
+    <script type="text/javascript" language="javascript" src="../../scripts/angular.js"></script>
+    <script type="text/javascript" language="javascript" src="../../scripts/angular-resource.js"></script>
+    <script type="text/javascript" language="javascript" src="app/KssApproveList.js"></script>
 </head>
 <body>
+    <div ng-app="KssApproveListApp" ng-controller="KssApproveListController">
 
+        <table>
+            <tr ng-repeat="x in names">
+                <td>{{ x.Name }}</td>
+                <td>{{ x.Country }}</td>
+            </tr>
+        </table>
+    </div>
 </body>
 </html>

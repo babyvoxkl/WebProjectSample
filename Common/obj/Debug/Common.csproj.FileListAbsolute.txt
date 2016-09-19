@@ -1,0 +1,6 @@
+E:\WorkSpace\Demo\WebProjectSample\Common\bin\Debug\Common.dll
+E:\WorkSpace\Demo\WebProjectSample\Common\bin\Debug\Common.pdb
+E:\WorkSpace\Demo\WebProjectSample\Common\bin\Debug\log4net.dll
+E:\WorkSpace\Demo\WebProjectSample\Common\bin\Debug\log4net.xml
+E:\WorkSpace\Demo\WebProjectSample\Common\obj\Debug\Common.dll
+E:\WorkSpace\Demo\WebProjectSample\Common\obj\Debug\Common.pdb

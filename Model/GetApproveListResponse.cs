@@ -12,6 +12,12 @@ namespace Model
     public class GetApproveListResponse
     {
         [DataMember]
+        public int ResultCode { get; set; }
+
+        [DataMember]
+        public string ResultMessage { get; set; }
+
+        [DataMember]
         public int TotalRow { get; set; }
         [DataMember]
         public List<KssApply> Apply { get; set; }

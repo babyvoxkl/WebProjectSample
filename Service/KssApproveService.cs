@@ -16,19 +16,9 @@ namespace Service
     {
         private static readonly ILog Logs = LogHelper.GetInstance();
 
-        public GetApproveListResponse GetApproveListService(GetApproveListRequest request)
+        public List<string> GetApproveListService()
         {
-            GetApproveListResponse response = new GetApproveListResponse()
-            {
-                Apply = new List<KssApply>()
-            };
-
-            response.Apply.Add(new KssApply()
-            {
-                ApplyNo = "T1"
-            });
-
-            return response;
+            return new List<string>() {"11", "22", "33", "44", "55", "66", "77", "88", "99"};
         }
     }
 }

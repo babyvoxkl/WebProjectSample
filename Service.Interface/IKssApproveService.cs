@@ -1,4 +1,5 @@
-﻿using System.ServiceModel;
+﻿using System.Collections.Generic;
+using System.ServiceModel;
 using System.ServiceModel.Web;
 using Model;
 
@@ -9,7 +10,7 @@ namespace Service.Interface
     public interface IKssApproveService
     {
         [OperationContract]
-        [WebInvoke(UriTemplate = "GetApproveList", ResponseFormat = WebMessageFormat.Json, Method = "GET")]
-        GetApproveListResponse GetApproveListService(GetApproveListRequest request);
+        [WebInvoke(UriTemplate = "/", ResponseFormat = WebMessageFormat.Json,BodyStyle = WebMessageBodyStyle.Bare, Method = "GET")]
+        List<string> GetApproveListService();
     }
 }

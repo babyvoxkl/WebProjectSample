@@ -14,6 +14,9 @@ namespace Model
         {
         }
 
-
+        /// <summary>
+        /// 抗生素审批列表
+        /// </summary>
+        public DbSet<GetApproveListResponse> GetApproveListResponse { get; set; }
     }
 }

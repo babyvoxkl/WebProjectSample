@@ -53,7 +53,9 @@
     <Compile Include="KssApproveService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="log4net.config" />
     <None Include="packages.config" />
   </ItemGroup>
@@ -66,13 +68,13 @@
       <Project>{1f352333-0b7e-4c7c-b8dd-411463ffbec7}</Project>
       <Name>BizLogic</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{0bbc872a-7622-447b-8b2a-1c4103a26db7}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
       <Project>{979c2a29-ecfb-4aa3-a1c1-9d5d5384c216}</Project>
       <Name>Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Service.Interface\Service.Interface.csproj">
-      <Project>{20dd06e1-5836-443a-b762-6464e55c07d8}</Project>
-      <Name>Service.Interface</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
