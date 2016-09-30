@@ -1,10 +1,11 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.Serialization;
 
 namespace Model.DataModel
 {
     [DataContract]
-    [Serializable]
+    [Table("UserInfo")]
     public class UserInfo
     {
         [DataMember]

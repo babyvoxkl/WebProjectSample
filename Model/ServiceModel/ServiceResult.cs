@@ -3,7 +3,7 @@ using System.Runtime.Serialization;
 
 namespace Model
 {
-    [Serializable]
+    [DataContract]
     public class ServiceResult
     {
         [DataMember]

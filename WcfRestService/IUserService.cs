@@ -1,10 +1,9 @@
 ﻿using System.ServiceModel;
 using System.ServiceModel.Web;
-using Model;
 using Model.DataModel;
 using Model.ServiceModel;
 
-namespace WcfRestService.Interface
+namespace WcfRstService
 {
     [ServiceContract]
     public interface IUserService

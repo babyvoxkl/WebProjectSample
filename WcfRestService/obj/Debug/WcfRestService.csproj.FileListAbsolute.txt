@@ -1,4 +1,3 @@
-E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\ApplicationInsights.config
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\WcfRstService.dll.config
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\WcfRstService.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\WcfRstService.pdb
@@ -13,7 +12,6 @@ E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.AI.Web.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.AI.WindowsServer.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.ApplicationInsights.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Model.dll
-E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\WcfRestService.Interface.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\DataAccess.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\log4net.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\EntityFramework.dll
@@ -21,7 +19,6 @@ E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\BizLogic.Interface.pdb
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\BizLogic.pdb
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Common.pdb
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Model.pdb
-E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\WcfRestService.Interface.pdb
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.AI.DependencyCollector.xml
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\Microsoft.AI.Web.xml
@@ -34,3 +31,6 @@ E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\zh-Hans\EntityFramework.re
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\obj\Debug\WcfRestService.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\obj\Debug\WcfRstService.dll
 E:\WorkSpace\Demo\WebProjectSample\WcfRestService\obj\Debug\WcfRstService.pdb
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\EntityFramework.SqlServer.dll
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\EntityFramework.SqlServer.xml
+E:\WorkSpace\Demo\WebProjectSample\WcfRestService\bin\zh-Hans\EntityFramework.SqlServer.resources.dll

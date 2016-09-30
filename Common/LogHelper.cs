@@ -35,12 +35,12 @@ namespace Common
         {
             if (!string.IsNullOrEmpty(configPath))
             {
-                log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+                log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
                 log4net.Config.XmlConfigurator.Configure(new System.IO.FileInfo(configPath));
             }
             else
             {
-                log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+                log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
             }
         }
     }
